@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 This is Madhurima.
 I'm a Physics Graduate, love to explore laws of nature.
+Currently I've found a strong interest in Quantum Information and Computing.
