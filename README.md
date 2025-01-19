@@ -14,6 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-This is Madhurima.
-I'm a B.Sc. Physics Graduate, love to explore the laws of nature.
+This is Madhurima..love to explore the laws of nature.
 Currently I've found a strong interest in Quantum Information and Computing.
